@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mobilefacenet_test", "mobilefacenet_test.vcxproj", "{DEF88D59-2054-42D5-920E-6F66E186FFF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF88D59-2054-42D5-920E-6F66E186FFF8}.Debug|x64.ActiveCfg = Debug|x64
+		{DEF88D59-2054-42D5-920E-6F66E186FFF8}.Debug|x64.Build.0 = Debug|x64
+		{DEF88D59-2054-42D5-920E-6F66E186FFF8}.Release|x64.ActiveCfg = Release|x64
+		{DEF88D59-2054-42D5-920E-6F66E186FFF8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3357A4AB-B4FE-405F-AE6E-06CC16E3FA27}
+	EndGlobalSection
+EndGlobal
